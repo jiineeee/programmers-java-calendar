@@ -2,7 +2,7 @@ package calendar;
 
 public class Calendar {
 	public static void main(String[] args) {
-		System.out.println("ÀÏ\t¿ù\tÈ­\t¼ö\t¸ñ\t±İ\tÅä");
+		System.out.println("ì¼\tì›”\tí™”\tìˆ˜\tëª©\tê¸ˆ\tí† ");
 		System.out.println("---------------------------------------------------");
 		for (int i = 1; i <= 28; i++) {
 			System.out.print(i + "\t");
